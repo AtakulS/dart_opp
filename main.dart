@@ -12,5 +12,6 @@ void main(){
   ahmet.address = AddressModel(addressCountry: "Türkiye", addressCity: "istanbul", addressDistrict: "Beşiktaş", addressDetail: "Meydan Mahallesi No:1");
   ahmet.educationList = ["1234","12345"];
   ahmet.displayInfo();
+  // github test
 
 }
